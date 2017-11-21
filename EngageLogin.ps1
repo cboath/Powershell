@@ -2,8 +2,8 @@
 
 cls
 
-$user = "chris.teater@daugherty.com"
-$password = "Stargate79"
+$user = ""
+$password = ""
 
 $ie = new-object -ComObject 'internetExplorer.application'
 $ie.Visible = $true
